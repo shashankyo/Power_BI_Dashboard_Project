@@ -5,9 +5,9 @@ Power BI , Excel and Tablue Projects:
 3-Credit Card Complaint Analysis.
 4-Customer Complaint Dashboard.
 5-Ecommerce Sales Dashboard using Excel.
-6-HR_Analysis using Tablue.
-7-HR_Analysis using Power BI.
-8-HR_Analysis using Excel.
+6-HR_Analysis Dashboard using Tablue.
+7-HR_Analytics using Power BI.
+8-HR_Analysis Dashboard using Excel.
 9-Hotel Booking Business report.
 10-IPL Statistics using Dashboard.
 11-IPL Dashboard using Excel.
