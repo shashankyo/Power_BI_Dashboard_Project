@@ -1,5 +1,5 @@
 # Power_BI_Dashboard_Project
-Power BI , Excel and Tablue Projects:
+Power BI, Excel and Tablue Projects:
 1-Accident Dashboard using Tablue.
 2-Dashboard showing diff between Normal and newly released Card feature.
 3-Credit Card Complaint Analysis.
