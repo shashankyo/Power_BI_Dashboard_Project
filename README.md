@@ -1,7 +1,7 @@
 # Power_BI_Dashboard_Project
 Power BI , Excel and Tablue Projects:
-1-Aciident Dashboard using Tablue.
-2-Dashboard showing diff between Normal and newly released Card.
+1-Accident Dashboard using Tablue.
+2-Dashboard showing diff between Normal and newly released Card feature.
 3-Credit Card Complaint Analysis.
 4-Customer Complaint Dashboard.
 5-Ecommerce Sales Dashboard using Excel.
@@ -12,8 +12,8 @@ Power BI , Excel and Tablue Projects:
 10-IPL Statistics using Dashboard.
 11-IPL Dashboard using Excel.
 12-Pesronal Expense Tracker Dashboard using Power BI.
-13-Product Revenue report by city.
+13-Product Revenue report by city using Power BI.
 14-Road Accident with Power BI.
-15-Ecommerce Sales Dash using Tablue.
+15-Ecommerce Sales Dashboard using Tablue.
 16-Pizza Sales Report dashboard.
 
