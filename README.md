@@ -9,11 +9,11 @@ Power BI, Excel and Tablue Projects:
 7-HR_Analytics using Power BI.
 8-HR_Analysis Dashboard using Excel.
 9-Hotel Booking Business report.
-10-IPL Statistics using Dashboard.
+10-IPL Statistics Dashboard.
 11-IPL Dashboard using Excel.
 12-Pesronal Expense Tracker Dashboard using Power BI.
 13-Product Revenue report by city using Power BI.
 14-Road Accident with Power BI.
 15-Ecommerce Sales Dashboard using Tablue.
-16-Pizza Sales Report dashboard.
+16-Pizza Sales Report Dashboard.
 
