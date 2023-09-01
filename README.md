@@ -13,7 +13,7 @@ Power BI, Excel and Tableau Projects:
 11-IPL Dashboard using Excel.
 12-Pesronal Expense Tracker Dashboard using Power BI.
 13-Product Revenue report by city using Power BI.
-14-Road Accident with Power BI.
+14-Road Accident Dashboard with Power BI.
 15-Ecommerce Sales Dashboard using Tableau.
 16-Pizza Sales Report Dashboard.
 
