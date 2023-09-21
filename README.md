@@ -1,4 +1,4 @@
-# Power_BI_Dashboard_Project
+# Power_BI_Dashboard_Projects
 Power BI, Excel and Tableau Projects:
 1-Accident Dashboard using Tableau.
 2-Dashboard showing difference between Normal and newly released Card feature.
