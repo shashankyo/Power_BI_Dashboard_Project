@@ -1,7 +1,7 @@
 # Power BI Dashboard_Projects
 Power BI, Excel and Tableau Projects:
 1-Accident Dashboard using Tableau.
-2-Dashboard showing difference between Normal and newly released Card feature.
+2-Dashboard showing difference between Normal and Newly released Card feature.
 3-Credit Card Complaint Analysis Dashboard.
 4-Customer Complaint Dashboard.
 5-Ecommerce Sales Dashboard using Excel.
