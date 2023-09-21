@@ -1,4 +1,4 @@
-# Power_BI_Dashboard_Projects
+# Power BI Dashboard_Projects
 Power BI, Excel and Tableau Projects:
 1-Accident Dashboard using Tableau.
 2-Dashboard showing difference between Normal and newly released Card feature.
@@ -11,7 +11,7 @@ Power BI, Excel and Tableau Projects:
 9-Hotel Booking Business report.
 10-IPL Statistics Dashboard.
 11-IPL Dashboard using Excel.
-12-Pesronal Expense Tracker Dashboard using Power BI.
+12-Personal Expense Tracker Dashboard using Power BI.
 13-Product Revenue report by city using Power BI.
 14-Road Accident Dashboard with Power BI.
 15-Ecommerce Sales Dashboard using Tableau.
